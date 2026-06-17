@@ -5,10 +5,9 @@
       "id": "embedded-project",
       "type": "spec",
       "name": "Enterprise Embedded Project",
-      "description": "企业级嵌入式 C 项目通用工程规范：分层架构、目录结构、模块边界、编码规范、RTOS/ISR/DMA/测试/Agent 实现规则。",
+      "description": "Reusable engineering conventions for enterprise embedded C projects, including layered architecture, directory layout, module boundaries, coding rules, RTOS, ISR, DMA, testing, and agent implementation guidelines.",
       "path": "marketplace/specs/embedded-project",
       "tags": ["embedded", "c", "mcu", "rtos", "architecture"]
     }
   ]
 }
-
